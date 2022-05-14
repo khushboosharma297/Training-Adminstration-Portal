@@ -1,0 +1,40 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+.fixed{
+    position:fixed;
+}
+.flex{
+    position:flex;
+}
+.abs{position: absolute;}
+.rel{position: relative;}
+.bl{
+    display:block;
+}
+.noul{
+    text-decoration: none;
+}
+ul,ol{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.c333{
+    color: #333;
+}
+.s15{
+    font-size: 15px;
+}
+.s24{
+    font-size: 24px;
+}
+.s20{
+    font-size:20px;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: normal;
+    margin: 0px;
+    padding: 0px;
+}
